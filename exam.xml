@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<exam>
+	<section id="s1" type="MCQ">
+		<mcq id="q1" qs="What is 2 + 2?" c="A) 0,B) 2,C) 3,D) 4" a="D" p="5.0">
+		</mcq>
+		<mcq id="q2" qs="What is the symbol of Helium?" c="A) H,B) He,C) Hl,D) Hm" a="B" p="5.0">
+		</mcq>
+		<mcq id="q3" qs="What is the capital of Turkey?" c="A) Ankara,B) Bursa,C) Istanbul,D) Izmir" a="A" p="5.0">
+		</mcq>
+	</section>
+	<section id="s2" type="OpenEnded">
+		<open id="q1" qs="What is 4 + 4?" a="8" p="5.0">
+		</open>
+		<open id="q2" qs="What is 4 * 4?" a="16" p="5.0">
+		</open>
+		<open id="q3" qs="Who is the surname of best prof in the world?" a="bodin" p="5.0">
+		</open>
+	</section>
+	<section id="s3" type="Matching">
+		<matching id="q1" qs="Match countries with their capital" c="1- Germany,2- France,3- Italy,4- Spain" m="A- Rome,B- Berlin,C- Madrid,D- Paris" a="B D A C" p="20.0">
+		</matching>
+	</section>
+	<section id="s4" type="Essay">
+		<essay id="q1" qs="Write an in which you explain the importance of water" p="50.0">
+		</essay>
+	</section>
+</exam>
